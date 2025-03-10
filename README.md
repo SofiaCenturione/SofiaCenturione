@@ -26,13 +26,12 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />  
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -56,7 +55,7 @@
 <h3 align="left">🗣️ Contact Me</h3> 
 
 <div align="left" >
-  <a href="https://www.linkedin.com/in/sofia-centurione-pereira-976030231/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/sofia-centurione-pereira-976030231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  /></a>
   
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRttgLTjdsrlcTGrkSSTcQTntzzCJBGdKRcxPdNJzPgvWKFqbgnGDRJLwgjWlslQkWxJCVb"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
    
