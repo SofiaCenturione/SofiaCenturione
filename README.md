@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My name is Sofia Centurione Pereira and I'm a computer science student, this place it's for me to study and practice a little!<br><br>🇧🇷 Olá, me chamo Sofia Centurione Pereira e sou estudante de ciência da computação, estou usando o github para estudo e treino!</p><br>
+<p align="left">My name is Sofia Centurione Pereira and I'm a computer science student, this place it's for me to study and practice a little!<br><br>🇧🇷 Olá, me chamo Sofia Centurione Pereira e sou estudante de ciência da computação, estou usando o github para estudo e treino!</p>
 
 ###
 
@@ -40,8 +40,8 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  ###
-<br>
+  
+<br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 
@@ -55,7 +55,7 @@
 
 <h3 align="left">🗣️ Contact Me</h3> 
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/sofia-centurione-pereira-976030231/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRttgLTjdsrlcTGrkSSTcQTntzzCJBGdKRcxPdNJzPgvWKFqbgnGDRJLwgjWlslQkWxJCVb"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
