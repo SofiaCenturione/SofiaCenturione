@@ -1,11 +1,11 @@
 
 ###
 
-<h1>Hello World 👋</h1>
+<h1>Hello World 👋👩‍💻</h1>
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3> 
+<h3 align="left">Language and tools</h3> 
 
 ###
 
@@ -55,10 +55,10 @@
 
 <h3 align="left">🗣️ Contact Me</h3> 
 
-
+<div align="center">
   <a href="https://www.linkedin.com/in/sofia-centurione-pereira-976030231/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRttgLTjdsrlcTGrkSSTcQTntzzCJBGdKRcxPdNJzPgvWKFqbgnGDRJLwgjWlslQkWxJCVb"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
    
   <a href="https://www.instagram.com/sofiacentwo/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />   </a> 
-
+</div>
