@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My name is Sofia Centurione Pereira and I'm a computer science student, this place it's for me to study and practice a little!<br><br>🇧🇷 Olá, me chamo Sofia Centurione Pereira e sou estudante de ciência da computação, estou usando o github para estudo e treino!</p>
+<p align="left">My name is Sofia Centurione Pereira and I am an undergraduate student in computer science. This is a tiny bit of my practical work!<br></p>
 
 ###
 
