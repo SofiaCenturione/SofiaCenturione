@@ -34,6 +34,12 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
